@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  margin-top: 0;
+  font-family: cursive;
+  font-size: 30px;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  border: 300px;
+}
+.image
+{
+  width: 100px;
+  height:100px;
+  border-radius: 50%;
+}
+.eye-image
+{
+  width: 70px;
+  height:70px;
+  border-radius: 50%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.profile-image
+{
+  width: 100px;
+  height:100px;
+
+}
+.hackathon
+{
+  width: 150px;
+  height:150px;
+}
+.linkedin
+{
+  width: 20px;
+  height: 20px;
+}
+.twitter
+{
+  width: 20px;
+  height: 20px;
+}
+.mail
+{
+  width: 20px;
+  height: 20px;
+}
+.instagram
+{
+  width: 20px;
+  height: 20px;
+}
